@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="documentation/docs/static/icon.png" alt="NoxGL Logo" width="100" />
-
 # NoxGL
 
 **Modern OpenGL toolkit for the Nox programming language.**
